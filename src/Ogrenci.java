@@ -11,6 +11,9 @@ public class Ogrenci {
 
         System.out.println("Merhaba gecelerrr");
 
+        System.out.println("Merhaba grp13");
+        System.out.println("Merhaba Arkadaşlar");
+
 
         System.out.println("Güncelle");
 
