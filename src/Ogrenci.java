@@ -6,6 +6,10 @@ public class Ogrenci {
         System.out.println("Merhaba Grup13");
 
         System.out.println("Merhaba grup");
+        System.out.println("DUNYA");
+
+
+        System.out.println("Merhaba gecelerrr");
 
         System.out.println("Merhaba GRUP");
 
