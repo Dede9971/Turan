@@ -15,6 +15,8 @@ public class Ogrenci {
 
         System.out.println("Güncelle");
 
+        System.out.println("Galatasaray");
+
 
     }
 }
