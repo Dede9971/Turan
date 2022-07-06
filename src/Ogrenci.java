@@ -8,6 +8,7 @@ public class Ogrenci {
         System.out.println("Merhaba grup");
 
         System.out.println("Merhaba grp13");
+        System.out.println("Merhaba Arkadaşlar");
 
 
     }
