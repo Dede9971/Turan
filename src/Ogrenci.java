@@ -12,6 +12,7 @@ public class Ogrenci {
         System.out.println("Merhaba gecelerrr");
 
         System.out.println("yeni bir sey");
+        System.out.println("turan hocam github üstünden göstersene");
 
 
     }
