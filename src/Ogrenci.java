@@ -7,7 +7,7 @@ public class Ogrenci {
 
         System.out.println("Merhaba grup");
 
-        System.out.println("Merhaba geceler");
+        System.out.println("Merhaba gecelerrr");
 
 
     }
