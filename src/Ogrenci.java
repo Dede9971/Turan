@@ -11,6 +11,8 @@ public class Ogrenci {
 
         System.out.println("Merhaba gecelerrr");
 
+        System.out.println("yeni bir sey");
+
 
     }
 }
