@@ -3,6 +3,8 @@ public class Ogrenci {
         System.out.println("Merhaba Dunya1");
         System.out.println("Merhaba Dunya2");
 
+        System.out.println("Merhaba Grup13");
+
 
     }
 }
