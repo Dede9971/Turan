@@ -13,6 +13,8 @@ public class Ogrenci {
 
         System.out.println("Merhaba GRUP");
 
+        System.out.println("Güncelle");
+
 
     }
 }
